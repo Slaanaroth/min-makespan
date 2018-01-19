@@ -1,0 +1,123 @@
+Borne inferieure ''maximum'' = 17.0
+Borne inferieure ''moyenne'' = 35.0
+Resultat LSA = 39
+Resultat LPT = 36
+Resultat MyAlgo = 38
+==================================================
+Borne inferieure ''maximum'' = 20.0
+Borne inferieure ''moyenne'' = 37.0
+Resultat LSA = 40
+Resultat LPT = 38
+Resultat MyAlgo = 38
+==================================================
+Borne inferieure ''maximum'' = 20.0
+Borne inferieure ''moyenne'' = 39.0
+Resultat LSA = 44
+Resultat LPT = 41
+Resultat MyAlgo = 40
+==================================================
+Borne inferieure ''maximum'' = 20.0
+Borne inferieure ''moyenne'' = 34.0
+Resultat LSA = 40
+Resultat LPT = 36
+Resultat MyAlgo = 37
+==================================================
+Borne inferieure ''maximum'' = 20.0
+Borne inferieure ''moyenne'' = 45.0
+Resultat LSA = 51
+Resultat LPT = 50
+Resultat MyAlgo = 47
+==================================================
+Borne inferieure ''maximum'' = 19.0
+Borne inferieure ''moyenne'' = 28.0
+Resultat LSA = 33
+Resultat LPT = 29
+Resultat MyAlgo = 29
+==================================================
+Borne inferieure ''maximum'' = 20.0
+Borne inferieure ''moyenne'' = 43.0
+Resultat LSA = 54
+Resultat LPT = 45
+Resultat MyAlgo = 47
+==================================================
+Borne inferieure ''maximum'' = 19.0
+Borne inferieure ''moyenne'' = 39.0
+Resultat LSA = 48
+Resultat LPT = 40
+Resultat MyAlgo = 44
+==================================================
+Borne inferieure ''maximum'' = 19.0
+Borne inferieure ''moyenne'' = 31.0
+Resultat LSA = 33
+Resultat LPT = 32
+Resultat MyAlgo = 32
+==================================================
+Borne inferieure ''maximum'' = 20.0
+Borne inferieure ''moyenne'' = 42.0
+Resultat LSA = 50
+Resultat LPT = 43
+Resultat MyAlgo = 46
+==================================================
+Borne inferieure ''maximum'' = 20.0
+Borne inferieure ''moyenne'' = 39.0
+Resultat LSA = 47
+Resultat LPT = 41
+Resultat MyAlgo = 41
+==================================================
+Borne inferieure ''maximum'' = 20.0
+Borne inferieure ''moyenne'' = 34.0
+Resultat LSA = 42
+Resultat LPT = 34
+Resultat MyAlgo = 36
+==================================================
+Borne inferieure ''maximum'' = 20.0
+Borne inferieure ''moyenne'' = 33.0
+Resultat LSA = 35
+Resultat LPT = 35
+Resultat MyAlgo = 37
+==================================================
+Borne inferieure ''maximum'' = 20.0
+Borne inferieure ''moyenne'' = 31.0
+Resultat LSA = 40
+Resultat LPT = 32
+Resultat MyAlgo = 32
+==================================================
+Borne inferieure ''maximum'' = 19.0
+Borne inferieure ''moyenne'' = 30.0
+Resultat LSA = 36
+Resultat LPT = 31
+Resultat MyAlgo = 30
+==================================================
+Borne inferieure ''maximum'' = 19.0
+Borne inferieure ''moyenne'' = 41.0
+Resultat LSA = 44
+Resultat LPT = 41
+Resultat MyAlgo = 43
+==================================================
+Borne inferieure ''maximum'' = 18.0
+Borne inferieure ''moyenne'' = 42.0
+Resultat LSA = 47
+Resultat LPT = 45
+Resultat MyAlgo = 45
+==================================================
+Borne inferieure ''maximum'' = 19.0
+Borne inferieure ''moyenne'' = 38.0
+Resultat LSA = 49
+Resultat LPT = 39
+Resultat MyAlgo = 41
+==================================================
+Borne inferieure ''maximum'' = 19.0
+Borne inferieure ''moyenne'' = 45.0
+Resultat LSA = 47
+Resultat LPT = 47
+Resultat MyAlgo = 47
+==================================================
+Borne inferieure ''maximum'' = 18.0
+Borne inferieure ''moyenne'' = 26.0
+Resultat LSA = 27
+Resultat LPT = 27
+Resultat MyAlgo = 27
+==================================================
+Ratio d'approximation moyen LSA = 1.15547358797
+Ratio d'approximation moyen LPT = 1.03994397643
+Ratio d'approximation moyen MyAlgo = 1.06005695417
