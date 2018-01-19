@@ -23,6 +23,9 @@ def render() :
     if(mode.getType()=="Main") :
         for b in Button.buttons :
             b.render()
+    fill(0)
+    textSize(12)
+    text("Corentin Marionneau & Merlin Barzilai 2018", 70, 580)
             
 def fromFiler() :
     if(mode.getType() == "Main") :
@@ -31,7 +34,7 @@ def fromFiler() :
 
 def fileSelected(selection) :
   if selection == None :
-    print("Window was closed or the user hit cancel.")
+    mode.switch("errorLoad")
   else :
     print("You selected " + selection.toString())
     reader = createReader(selection.toString())

@@ -15,15 +15,18 @@ class Mode :
         if (self.type == "Main") :
             self.txt = "this programm computes results for the min-makespan problem, running different algorithms against each other. please select a method of input"
             self.fromKeyboard = None
+        if(self.type == "errorLoad") :
+            self.txt = "an error occured, or window was closed, press enter or return to go back to menu"
+            self.fromKeyboard = ""
         
         if(self.type == "fromFile") :
-            self.txt = "the content of your file will apppear below when loaded, press enter then, to compute"
+            self.txt = "please select a file using the dialog box. the content of your file will apppear below when loaded, press enter then, to compute"
             self.fromKeyboard = ""
         if (self.type == "fromKeyboard") :
-            self.txt ="please enter your instance with format  ''m:n:d1:d2:d3:...''"
+            self.txt ="please enter your instance with format  ''m:n:d1:d2:d3:...''. then, press enter to compute"
             self.fromKeyboard = ""
         if (self.type == "randomGen") :
-            self.txt ="you may enter your random generation specification in format ''m:n:k:min:max:output''"
+            self.txt ="you may enter your random generation specification in format ''m:n:k:min:max:output''. then, press enter to compute"
             self.fromKeyboard = ""
             
     def call(self) :
@@ -39,9 +42,9 @@ class Mode :
             maxi = int(tmp[4])
             o = tmp[5].split("\n")[0]
             fromGeneration(m,n,k,mini,maxi,o)
-            self.txt = "your generation is complete, check the project folder to find the results"
+            self.txt = "your generation is complete, check the project folder to find the results. press enter to return to menu"
             
-        if (self.type=="results") :
+        if (self.type=="results" or self.type=="errorLoad") :
             self.switch("Main")
         
         if(self.type != "Main") :    
